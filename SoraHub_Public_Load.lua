@@ -22,4 +22,4 @@ Created by Sora
 Notes : 
 Testing on Synapse Currently Running...
 ]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SoraAurora/SoraHub/main/SoraHub_Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoraAurora/SoraHub_Public/main/SoraHub_Main_Obfuscated.lua"))()
