@@ -15,6 +15,7 @@ Supported Games [5] :
  - Weapon Crafting Simulator
  - Boxing Fighters Simulator [PATCHED]
  - Apocalypse Tycoon
+ - Punch Simulator
 Supported Exploits [2] :
  - KRNL (KRNL.CA <-- Website)
  - Synapse (Possibly Buggy)
